@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with startups.
 - 📫 E-mail at deepharrysng@hotmail.com
 - 🏢 B.Tech- Computer Engineering(1st) at Thapar Institue of Engineering and Technology
-
+- 📈 Stock Market enthusiast
 <!---
 HarryDS21/HarryDS21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
